@@ -9,6 +9,8 @@ Controller: Intermediário entre a View e a Model.
 
 Realizei esta diagramação me baseiando nas duas principaís funcionalidades da aplicação web, a gestão e cadastro de usuários e cadastro/atualização dos manuais.
 
+Podemos observar na diagramação acima a Entidade do Model em ligação com o banco de dados, mostrando a comunicação entre os dois, podemos ver o Model em ligação com o Controller onde vizualizamos o controle das funções da nossa aplicação, conectando assim com a View, que será entregue ao usuário.
+
 Na tabela users adcionei as seguintes colunas:<br>
 id: Chave Primária<br>
 name: Nome do usuário<br>
