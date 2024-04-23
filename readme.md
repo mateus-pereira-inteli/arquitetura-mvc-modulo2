@@ -9,19 +9,19 @@ Controller: Intermediário entre a View e a Model.
 
 Realizei esta diagramação me baseiando nas duas principaís funcionalidades da aplicação web, a gestão e cadastro de usuários e cadastro/atualização dos manuais.
 
-Na tabela users adcionei as seguintes colunas:
-id: Chave Primária
-name: Nome do usuário
-email: E-mail do usuário
-password: Senha do usuário
-role: Nivel de permissão do usuário
-created_at: Data/hora que foi criado no banco
-updated_at: Ultima atualização deste registro 
+Na tabela users adcionei as seguintes colunas:<br>
+id: Chave Primária<br>
+name: Nome do usuário<br>
+email: E-mail do usuário<br>
+password: Senha do usuário<br>
+role: Nivel de permissão do usuário<br>
+created_at: Data/hora que foi criado no banco<br>
+updated_at: Ultima atualização deste registro <br>
 
-Na tabela manuais adcionei as seguintes colunas:
-id: Chave Primária
-name: Nome do manual
-descricao: Descrição do manual
-created_at: Data/hora que foi criado no banco
-updated_at: Ultima atualização deste registro 
+Na tabela manuais adcionei as seguintes colunas:<br>
+id: Chave Primária<br>
+name: Nome do manual<br>
+descricao: Descrição do manual<br>
+created_at: Data/hora que foi criado no banco<br>
+updated_at: Ultima atualização deste registro
 
